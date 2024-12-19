@@ -14,7 +14,7 @@
 
 <p> Please reach me at <a href="mailto:moefqy@rocketmail.com">moefqy@rocketmail.com</a>.</p>
 <p align="left">
-    <a href="https://moefqy.student.telkomuniversity.ac.id"><img src="https://img.shields.io/badge/-Website-21759B?logo=wordpress&logoColor=white&style=flat-square" alt="Website"></a>
+    <a href="https://moefqy.engineer"><img src="https://img.shields.io/badge/-Website-21759B?logo=wordpress&logoColor=white&style=flat-square" alt="Website"></a>
     <a href="mailto:moefqy@rocketmail.com"><img src="https://img.shields.io/badge/-Email-D44638?logo=gmail&logoColor=white&style=flat-square" alt="Email"></a>
     <a href="https://github.com/moefqy"><img src="https://img.shields.io/github/followers/moefqy.svg?label=Github&logo=github&logoColor=white&style=flat-square" alt="Github"></a>
     <a href="https://linkedin.com/in/moefqy"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"></a>
